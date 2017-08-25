@@ -80,7 +80,7 @@ function myTweets() {
 
 }
 
-// I couldn't get this part to function properly
+
 
 function mySpotify(receivedSong) {
 
@@ -110,7 +110,7 @@ function mySpotify(receivedSong) {
 
 }
 
-// As well as this part also, I don't know what's the actual problem.
+
 
 function movieThis(receivedMovie) {
 
